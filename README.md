@@ -2,6 +2,5 @@
 This patch removes the witch from the ZX-Spectrum game "Robin of the Wood"
 
 ## This witch is now gone!
-```
 ![gameplay](rsc/Game.png)
 
