@@ -1,5 +1,5 @@
 # A "no witch" patch for "Robin of the Wood" ZX-Spectrum game
-This patch removes the witch from the ZX-Spectrum game "Robin of the Wood"
+This patch removes the witch from ZX-Spectrum game "Robin of the Wood"
 
 ## This witch is now gone!
 ![gameplay](Game.png)
@@ -7,7 +7,7 @@ This patch removes the witch from the ZX-Spectrum game "Robin of the Wood"
 
 ## Background
 I was completely blown away by this game when I was 10 but I had a problem with this witch who was robbing me of every penny.\
-Many years later I finally managed to do it!
+I so very much desired to get rid of her. Many years later I finally managed to do it!
 
 
 ## The patch
